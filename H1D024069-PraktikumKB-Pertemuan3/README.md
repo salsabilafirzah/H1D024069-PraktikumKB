@@ -67,8 +67,8 @@ pip install numpy scikit-fuzzy matplotlib
 ## Cara Menjalankan
 
 ```bash
-python kepuasan_pelayanan.py
-python stok_makanan.py
+python pelayanan_masyarakat.py
+python toko_hewan.py
 ```
 
 ---
@@ -78,8 +78,8 @@ python stok_makanan.py
 ```
 H1D024069-PraktikumKB-Pertemuan3/
 │
-├── kepuasan_pelayanan.py
-├── stok_makanan.py
+├── pelayanan_masyarakat.py
+├── toko_hewan.py
 └── README.md
 ```
 
