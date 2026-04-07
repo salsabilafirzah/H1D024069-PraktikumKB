@@ -9,8 +9,8 @@
 
 | Keterangan | Detail |
 |------------|--------|
-| **Nama** | `[Nama Kamu]` |
-| **NIM** | `[NIM Kamu]` |
+| **Nama** | `[Salsabila Firzah Amanina]` |
+| **NIM** | `[H1D024069]` |
 | **Shift Awal** | `[Shift F]` |
 | **Shift Akhir** | `[Shift E]` |
 
@@ -32,7 +32,5 @@
 - Setiap folder pertemuan berisi source code beserta penjelasannya
 
 ---
-
-<p align="center">
   <sub>Dibuat dengan ☕ untuk keperluan akademik</sub>
 </p>
