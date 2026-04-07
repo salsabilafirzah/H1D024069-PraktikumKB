@@ -27,7 +27,7 @@ Ketersediaan Sarpras   : 90
 
 ---
 
-### 2. `toko_hewan.py`
+### 2. toko_hewan.py
 Sistem fuzzy untuk menentukan **rekomendasi jumlah stok makanan** berdasarkan 4 variabel input.
 
 | Variabel | Tipe | Range |
