@@ -25,6 +25,7 @@
 | 3 | Pertemuan 3 | [`Pertemuan-3/`](./H1D024069-PraktikumKB-Pertemuan3) |
 | 4 | Pertemuan 4 | [`Pertemuan-4/`](./H1D024069-PraktikumKB-Pertemuan4) |
 | 5 | Pertemuan 5 | [`Pertemuan-5/`](./H1D024069-PraktikumKB-Pertemuan5) |
+| 6 | Pertemuan 6 | [`Pertemuan-6/`](./H1D024069-PraktikumKB-Pertemuan6) |
 
 ---
 
